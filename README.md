@@ -44,4 +44,4 @@ to easily hide and show the cursor with `XFixesHideCursor()` and
 `XFixesShowCursor()`.
 
 To install on Ubuntu:
-`apt install x11proto-core-dev, libx11-dev, libxt-dev, libxfixes-dev, libxi-dev`
+`apt install x11proto-core-dev libx11-dev libxt-dev libxfixes-dev libxi-dev`
